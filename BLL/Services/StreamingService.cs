@@ -1,4 +1,4 @@
-using Domain.Services;
+/* using Domain.Services;
 
 namespace BLL.Services;
 
@@ -16,4 +16,4 @@ public class StreamingService : IStreamingService
         var stream = await client.GetStreamAsync("https://anthonygiretti.blob.core.windows.net/videos/earth.mp4");
         return (stream, "video/mp4");
     }
-}
+} */

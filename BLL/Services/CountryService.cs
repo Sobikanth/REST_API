@@ -32,7 +32,7 @@ public class CountryService : ICountryService
         if (countryFound is null)
             return 1;
 
-        return countryFound.Id.Value;
+        return countryFound.Id;
     }
 
     public bool Delete(int id)

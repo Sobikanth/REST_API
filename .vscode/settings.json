@@ -1,3 +1,15 @@
 {
-  "cSpell.words": ["Antiforgery", "countrydto", "countryservice"]
+  "cSpell.words": [
+    "Antiforgery",
+    "countrydto",
+    "countryservice",
+    "longrunning",
+    "routegroups",
+    "Swashbuckle",
+    "uploadmany",
+    "uploadmanywithmetadata",
+    "uploadwithmetadata",
+    "versionneutral",
+    "WAITFOR"
+  ]
 }

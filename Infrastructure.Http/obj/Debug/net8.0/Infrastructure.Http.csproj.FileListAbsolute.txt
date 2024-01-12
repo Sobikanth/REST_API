@@ -1,0 +1,15 @@
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/obj/Debug/net8.0/Infrastructure.Http.csproj.AssemblyReference.cache
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/obj/Debug/net8.0/Infrastructure.Http.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/obj/Debug/net8.0/Infrastructure.Http.AssemblyInfoInputs.cache
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/obj/Debug/net8.0/Infrastructure.Http.AssemblyInfo.cs
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/obj/Debug/net8.0/Infrastructure.Http.csproj.CoreCompileInputs.cache
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/bin/Debug/net8.0/Infrastructure.Http.deps.json
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/bin/Debug/net8.0/Infrastructure.Http.dll
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/bin/Debug/net8.0/Infrastructure.Http.pdb
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/bin/Debug/net8.0/Domain.dll
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/bin/Debug/net8.0/Domain.pdb
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/obj/Debug/net8.0/Infrastructure.Http.csproj.CopyComplete
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/obj/Debug/net8.0/Infrastructure.Http.dll
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/obj/Debug/net8.0/refint/Infrastructure.Http.dll
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/obj/Debug/net8.0/Infrastructure.Http.pdb
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.Http/obj/Debug/net8.0/ref/Infrastructure.Http.dll

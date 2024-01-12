@@ -3,6 +3,7 @@ using Domain.DTOs;
 using Infrastructure.SQL.Database;
 using Infrastructure.SQL.Database.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Threading;
 
 namespace Infrastructure.SQL.Repositories;
 
@@ -13,7 +14,12 @@ public class CountryRepository : ICountryRepository
     {
         _demoContext = demoContext;
     }
-    public async Task<int> CreateAsync(CountryDto countryDto)
+
+    public async Task _LongRunningQueryAsync(CancellationToken cancellationToken)
+    {
+        await _demoContext.Database.ExecuteSqlRawAsync("WAITFOR DELAY '00:00:10'", cancellationToken: cancellationToken);
+    }
+    public async Task<int> _CreateAsync(CountryDto countryDto)
     {
         var CountryEntity = new CountryEntity
         {
@@ -26,12 +32,12 @@ public class CountryRepository : ICountryRepository
         return CountryEntity.Id;
     }
 
-    public async Task<int> DeleteAsync(int id)
+    public async Task<int> _DeleteAsync(int id)
     {
         return await _demoContext.Countries.Where(x => x.Id == id).ExecuteDeleteAsync();
     }
 
-    public async Task<List<CountryDto>> GetAllAsync()
+    public async Task<List<CountryDto>> _GetAllAsync()
     {
         return await _demoContext.Countries.AsNoTracking().Select(x => new CountryDto
         {
@@ -42,7 +48,7 @@ public class CountryRepository : ICountryRepository
         }).ToListAsync();
     }
 
-    public async Task<CountryDto> GetCountryByIdAsync(int id)
+    public async Task<CountryDto> _GetCountryByIdAsync(int id)
     {
         return await _demoContext.Countries.Where(x => x.Id == id).Select(x => new CountryDto
         {
@@ -53,7 +59,7 @@ public class CountryRepository : ICountryRepository
         }).FirstOrDefaultAsync();
     }
 
-    public async Task<int> UpdateAsync(CountryDto countryDto)
+    public async Task<int> _UpdateAsync(CountryDto countryDto)
     {
         var countryEntity = new CountryDto
         {
@@ -66,7 +72,7 @@ public class CountryRepository : ICountryRepository
         s.SetProperty(p => p.Description, countryEntity.Description).SetProperty(p => p.FlagUri, countryEntity.FlagUri).SetProperty(p => p.Name, countryEntity.Name));
     }
 
-    public async Task<int> UpdateDescriptionAsync(int id, string description)
+    public async Task<int> _UpdateDescriptionAsync(int id, string description)
     {
         return await _demoContext.Countries.Where(x => x.Id == id).ExecuteUpdateAsync(s => s.SetProperty(p => p.Description, description));
     }

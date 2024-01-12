@@ -9,3 +9,4 @@
 /Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/obj/Debug/net8.0/refint/Domain.dll
 /Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/obj/Debug/net8.0/Domain.pdb
 /Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/obj/Debug/net8.0/ref/Domain.dll
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache

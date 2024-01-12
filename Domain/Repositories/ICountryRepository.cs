@@ -4,10 +4,12 @@ namespace Domain.Repositories;
 
 public interface ICountryRepository
 {
-    Task<CountryDto> GetCountryByIdAsync(int id);
-    Task<List<CountryDto>> GetAllAsync();
-    Task<int> CreateAsync(CountryDto countryDto);
-    Task<int> UpdateAsync(CountryDto countryDto);
-    Task<int> UpdateDescriptionAsync(int id, string description);
-    Task<int> DeleteAsync(int id);
+    Task<CountryDto> _GetCountryByIdAsync(int id);
+    Task<List<CountryDto>> _GetAllAsync();
+    Task<int> _CreateAsync(CountryDto countryDto);
+    Task<int> _UpdateAsync(CountryDto countryDto);
+    Task<int> _UpdateDescriptionAsync(int id, string description);
+    Task<int> _DeleteAsync(int id);
+    Task _LongRunningQueryAsync(CancellationToken cancellationToken);
+
 }

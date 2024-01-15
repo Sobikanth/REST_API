@@ -1,10 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "KP3j9F/42G6n14tWC5jeURoBZrnS4Aflz6c5dLfCFqz2bZjlMLlWZCfQzNVg4RwKh6Cr7I5DuJJIJfCaTsWOfA==",
+  "dgSpecHash": "5t/MBioyYQ10GFXFzLncocLpcwpflP1K8VKXjlGxqco4EWRKyXImGSybk+erK6U/x0dmiH6UsCSbDBCJQjRiEw==",
   "success": true,
   "projectFilePath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/BLL/BLL.csproj",
   "expectedPackageFiles": [
+    "/Users/m.sobikanth/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/m.sobikanth/.nuget/packages/microsoft.extensions.caching.stackexchangeredis/8.0.1/microsoft.extensions.caching.stackexchangeredis.8.0.1.nupkg.sha512",
+    "/Users/m.sobikanth/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/m.sobikanth/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/m.sobikanth/.nuget/packages/microsoft.extensions.options/8.0.1/microsoft.extensions.options.8.0.1.nupkg.sha512",
+    "/Users/m.sobikanth/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/m.sobikanth/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "/Users/m.sobikanth/.nuget/packages/refit/7.0.0/refit.7.0.0.nupkg.sha512",
+    "/Users/m.sobikanth/.nuget/packages/stackexchange.redis/2.6.122/stackexchange.redis.2.6.122.nupkg.sha512",
+    "/Users/m.sobikanth/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512",
     "/Users/m.sobikanth/.nuget/packages/system.net.http.json/7.0.1/system.net.http.json.7.0.1.nupkg.sha512",
     "/Users/m.sobikanth/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/m.sobikanth/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"

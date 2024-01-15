@@ -29,9 +29,9 @@ public class CountryDbService : ICountryDbService
         return await _countryRepository._DeleteAsync(id) > 0;
     }
 
-    public async Task<List<CountryDto>> GetAllAsync(PagingDto pagingDto)
+    public async Task<List<CountryDto>> GetAllAsync(PagingDto paging)
     {
-        return await _countryRepository._GetAllAsync(pagingDto);
+        return await _countryRepository._GetAllAsync(paging);
     }
 
     public async Task<CountryDto> GetCountryByIdAsync(int id)

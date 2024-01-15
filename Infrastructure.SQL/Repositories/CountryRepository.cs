@@ -37,7 +37,7 @@ public class CountryRepository : ICountryRepository
         return await _demoContext.Countries.Where(x => x.Id == id).ExecuteDeleteAsync();
     }
 
-    public async Task<List<CountryDto>> _GetAllAsync(PagingDto pagingDto)
+    public async Task<List<CountryDto>> _GetAllAsync(PagingDto paging)
     {
         return await _demoContext.Countries.AsNoTracking().Select(x => new CountryDto
         {
@@ -45,7 +45,7 @@ public class CountryRepository : ICountryRepository
             Name = x.Name,
             Description = x.Description,
             FlagUri = x.FlagUri
-        }).Skip((pagingDto.PageIndex - 1) * pagingDto.PageSize).Take(pagingDto.PageSize).ToListAsync();
+        }).Skip((paging.PageIndex - 1) * paging.PageSize).Take(paging.PageSize).ToListAsync();
     }
 
     public async Task<CountryDto> _GetCountryByIdAsync(int id)

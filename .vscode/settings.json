@@ -1,9 +1,12 @@
 {
   "cSpell.words": [
     "Antiforgery",
+    "cachedcountries",
+    "cachedinmemorycountries",
     "countrydto",
     "countryservice",
     "longrunning",
+    "rediscachedinmemorycountries",
     "routegroups",
     "Swashbuckle",
     "uploadmany",

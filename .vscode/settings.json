@@ -8,6 +8,7 @@
     "longrunning",
     "rediscachedinmemorycountries",
     "routegroups",
+    "Serilog",
     "Swashbuckle",
     "uploadmany",
     "uploadmanywithmetadata",

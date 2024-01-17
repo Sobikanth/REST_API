@@ -5,6 +5,7 @@
     "cachedinmemorycountries",
     "countrydto",
     "countryservice",
+    "Healthchecks",
     "longrunning",
     "rediscachedinmemorycountries",
     "routegroups",

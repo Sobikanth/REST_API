@@ -4311,11 +4311,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.SQL/Infrastructure.SQL.csproj",
+      "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Infrastructure.SQL/Infrastructure.SQL.csproj",
       "projectName": "Infrastructure.SQL",
-      "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.SQL/Infrastructure.SQL.csproj",
+      "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Infrastructure.SQL/Infrastructure.SQL.csproj",
       "packagesPath": "/Users/m.sobikanth/.nuget/packages/",
-      "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.SQL/obj/",
+      "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Infrastructure.SQL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/m.sobikanth/.nuget/NuGet/NuGet.Config"
@@ -4330,8 +4330,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj": {
-              "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj"
+            "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj": {
+              "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj"
             }
           }
         }

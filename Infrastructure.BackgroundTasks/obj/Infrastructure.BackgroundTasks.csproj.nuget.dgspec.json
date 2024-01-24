@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.BackgroundTasks/Infrastructure.BackgroundTasks.csproj": {}
+    "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Infrastructure.BackgroundTasks/Infrastructure.BackgroundTasks.csproj": {}
   },
   "projects": {
-    "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj": {
+    "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj",
+        "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj",
         "packagesPath": "/Users/m.sobikanth/.nuget/packages/",
-        "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/obj/",
+        "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/m.sobikanth/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.BackgroundTasks/Infrastructure.BackgroundTasks.csproj": {
+    "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Infrastructure.BackgroundTasks/Infrastructure.BackgroundTasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.BackgroundTasks/Infrastructure.BackgroundTasks.csproj",
+        "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Infrastructure.BackgroundTasks/Infrastructure.BackgroundTasks.csproj",
         "projectName": "Infrastructure.BackgroundTasks",
-        "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.BackgroundTasks/Infrastructure.BackgroundTasks.csproj",
+        "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Infrastructure.BackgroundTasks/Infrastructure.BackgroundTasks.csproj",
         "packagesPath": "/Users/m.sobikanth/.nuget/packages/",
-        "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Infrastructure.BackgroundTasks/obj/",
+        "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Infrastructure.BackgroundTasks/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/m.sobikanth/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj": {
-                "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj"
+              "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj": {
+                "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj"
               }
             }
           }

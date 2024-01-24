@@ -731,11 +731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/BLL/BLL.csproj",
+      "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/BLL/BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/BLL/BLL.csproj",
+      "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/BLL/BLL.csproj",
       "packagesPath": "/Users/m.sobikanth/.nuget/packages/",
-      "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/BLL/obj/",
+      "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/BLL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/m.sobikanth/.nuget/NuGet/NuGet.Config"
@@ -750,8 +750,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj": {
-              "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj"
+            "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj": {
+              "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj"
             }
           }
         }

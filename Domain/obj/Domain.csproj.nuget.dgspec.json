@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj": {}
+    "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj": {
+    "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/Domain.csproj",
+        "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/Domain.csproj",
         "packagesPath": "/Users/m.sobikanth/.nuget/packages/",
-        "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/obj/",
+        "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/m.sobikanth/.nuget/NuGet/NuGet.Config"

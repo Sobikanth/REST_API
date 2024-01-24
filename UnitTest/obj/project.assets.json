@@ -12064,11 +12064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/UnitTest/UnitTest.csproj",
+      "projectUniqueName": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/UnitTest/UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/UnitTest/UnitTest.csproj",
+      "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/UnitTest/UnitTest.csproj",
       "packagesPath": "/Users/m.sobikanth/.nuget/packages/",
-      "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/UnitTest/obj/",
+      "outputPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/UnitTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/m.sobikanth/.nuget/NuGet/NuGet.Config"
@@ -12083,8 +12083,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/MinimalAPIDemo/MinimalAPIDemo.csproj": {
-              "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/MinimalAPIDemo/MinimalAPIDemo.csproj"
+            "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/MinimalAPIDemo/MinimalAPIDemo.csproj": {
+              "projectPath": "/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/MinimalAPIDemo/MinimalAPIDemo.csproj"
             }
           }
         }

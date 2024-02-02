@@ -10,3 +10,16 @@
 /Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/obj/Debug/net8.0/Domain.pdb
 /Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/obj/Debug/net8.0/ref/Domain.dll
 /Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/Dec_12_Learning_REST/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/bin/Debug/net8.0/Domain.dll
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/Debug/net8.0/Domain.dll
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/m.sobikanth/Documents/Sobi/DotNet/ASP.NET/REST_API/Domain/obj/Debug/net8.0/ref/Domain.dll
